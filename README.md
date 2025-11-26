@@ -1,4 +1,4 @@
-# 🚀 FastAPI Multi-Tenant Backend  
+#  FastAPI Multi-Tenant Backend  
 ### _JWT Auth • Row-Level Isolation • PostgreSQL • Production-Ready Architecture_
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
@@ -8,10 +8,10 @@
 
 A clean, professional **multi-tenant backend** built with **FastAPI**, featuring:
 
-- 🔐 **JWT-based authentication**
-- 🏢 **Company-level isolation** (each company sees only its own data)
-- 🗂 **PostgreSQL models**
-- 🧩 **Modular and extendable FastAPI architecture**
+-  **JWT-based authentication**
+-  **Company-level isolation** (each company sees only its own data)
+-  **PostgreSQL models**
+-  **Modular and extendable FastAPI architecture**
 
 
 ---
@@ -35,7 +35,7 @@ fastapi-multitenant-backend/
 
 ---
 
-# 🧠 Architecture Diagram
+#  Architecture Diagram
 
 
       ┌────────────────────┐
@@ -65,15 +65,15 @@ fastapi-multitenant-backend/
 
 # ⚙️ Installation
 
-### 1️⃣ Create virtual environment
+### 1.  Create virtual environment
 ```bash
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 
-2️⃣ Install dependencies
+2. Install dependencies
 pip install -r requirements.txt
 
-3️⃣ Run API
+3. Run API
 uvicorn app.main:app --reload
 
 
