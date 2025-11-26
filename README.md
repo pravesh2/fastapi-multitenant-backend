@@ -12,7 +12,7 @@ A clean, professional **multi-tenant backend** built with **FastAPI**, featuring
 - 🏢 **Company-level isolation** (each company sees only its own data)
 - 🗂 **PostgreSQL models**
 - 🧩 **Modular and extendable FastAPI architecture**
-- 🛠 Ideal preparation for **DevNullX Backend Assessment**
+
 
 ---
 
