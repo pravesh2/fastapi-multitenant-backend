@@ -1,8 +1,19 @@
-# FastAPI Multi-Tenant Backend
+FastAPI Multi-Tenant Backend
+JWT Auth • Row-Level Isolation • PostgreSQL • Production-Ready Structure
 
-A simple multi-tenant backend demonstrating:
-- JWT authentication
-- Company-based row isolation
-- FastAPI routers
-- PostgreSQL models
-- Realistic structure for production systems
+
+
+
+
+
+
+
+A clean, professional multi-tenant backend built with FastAPI, featuring:
+
+🔐 JWT-based authentication
+
+🏢 Company-level isolation (each company sees only its own data)
+
+🗂 PostgreSQL models
+
+🧩 Extendable modular architecture
